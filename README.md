@@ -1,6 +1,5 @@
 # Nashville Housing Dataset Cleaning
 
-**Author:** Buhlebezwe Donga  
 **Dataset Source / Inspiration:** [AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst)  
 **Database:** SQLite (DB Browser)  
 **Project Type:** Data Cleaning / ETL  
